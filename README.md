@@ -1,16 +1,11 @@
 # platformind
 
-A new Flutter project.
+A new Flutter project to demonstrate platform dependent codes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project and run it.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![platformind](https://github.com/JeevsDev/platformind/assets/96291802/d2076162-41ca-4be6-af29-afd268028841)
